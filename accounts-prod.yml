@@ -4,5 +4,5 @@ build:
 accounts:
   message: "Hey, welcome to EazyBank accounts related webhook APIs"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner"
+    name: "Reine Aishwarya - Product Owner_modify"
     email: "gamers@gmail.com"
