@@ -4,5 +4,5 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related QA APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead_qa"
+    name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
